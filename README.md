@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Redux and React Testing Library
+- 🌱 I’m currently learning Redux, React Testing Library and NextJS.
