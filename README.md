@@ -4,15 +4,15 @@
 
 - 🤔 &nbsp; Exploring new web technologies and developing software solutions.
 - 🎓 &nbsp; Graduated Computer Systems Analyst at UniFavip Wyden.
-- 💼 &nbsp; Looking for a **Front End job**.
+- 💼 &nbsp; Working as a **Front End developer**.
 - 🌱 &nbsp; Learning more about Next.JS and React Testing Library.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | ReactJS | Bootstrap | Node.js
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | ReactJS | Node.js
 - 🛢 &nbsp; PostgreSQL | MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown | Yarn | NPM
-- 🖥 &nbsp; Jest | React Testing Library | Styled-components | Next.js | Gatsby.js
+- 🖥 &nbsp; Jest | React Testing Library | Styled-components | Bootstrap | Next.js | Gatsby.js
 - :closed_book: &nbsp; Clean Code | TDD | Dry | KISS
 
 <br/>
