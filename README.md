@@ -4,12 +4,12 @@
 
 - 🤔 &nbsp; Exploring new web technologies and developing software solutions.
 - 🎓 &nbsp; Graduated Computer Systems Analyst at UniFavip Wyden.
-- 💼 &nbsp; Working as a **Front End developer**.
-- 🌱 &nbsp; Learning more about Next.JS and React Testing Library.
+- 💼 &nbsp; Working as a **Front End developer** at [Restfy](https://github.com/restfy).
+- 🌱 &nbsp; Learning more about React.JS, React Testing Library and Front-end development in general.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | ReactJS | Node.js
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | TypeScript | ReactJS | Node.js
 - 🛢 &nbsp; PostgreSQL | MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown | Yarn | NPM
 - 🖥 &nbsp; Jest | React Testing Library | Styled-components | Bootstrap | Next.js | Gatsby.js
