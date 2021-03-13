@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new web technologies and developing software solutions.
 - 🎓 &nbsp; Graduated Computer Systems Analyst at UniFavip Wyden.
-- 💼 &nbsp; Working as a **Front End developer** at [Restfy](https://github.com/restfy).
+- 💼 &nbsp; Working as a **Front End developer**.
 - 🌱 &nbsp; Learning more about Next.JS, React Testing Library and Front-end best practices development in general.
 
 <h3>🛠 Tech Stack</h3>
