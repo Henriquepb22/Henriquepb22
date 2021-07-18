@@ -4,15 +4,15 @@
 
 - 🤔 &nbsp; Exploring new web technologies and developing software solutions.
 - 🎓 &nbsp; Graduated Computer Systems Analyst at UniFavip Wyden.
-- 💼 &nbsp; Working as a **Front End developer** at [B2W Digital](https://github.com/b2wdigital).
-- 🌱 &nbsp; Learning more about Next.JS, React Testing Library and Front-end best practices development in general.
+- 💼 &nbsp; Working as a **Front End software developer** at [B2W Digital](https://github.com/b2wdigital).
+- 🌱 &nbsp; Learning more about Next.JS, React Testing Library and Front End best practices development in general.
 
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | TypeScript | ReactJS | Node.js
 - 🛢 &nbsp; PostgreSQL | MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown | Yarn | NPM
-- 🖥 &nbsp; Jest | React Testing Library | Styled-components | Bootstrap | Next.js | Gatsby.js
+- 🖥 &nbsp; Jest | React Testing Library | Styled-components | Bootstrap | Next.js | Gatsby.js | Storybook
 - :closed_book: &nbsp; Clean Code | TDD | Dry | KISS
 
 <br/>
