@@ -11,8 +11,9 @@
 
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | TypeScript | ReactJS | Node.js
 - 🛢 &nbsp; PostgreSQL | MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Yarn | NPM | Webpack | Micro-frontends
+- 🔧 &nbsp; Git | Markdown | Yarn | NPM | Webpack | Micro-frontends | CI/CD | Github Actions | Gitlab pipelines
 - 🖥 &nbsp; Jest | React Testing Library | Styled-components | Tailwindcss | Next.js | Gatsby.js | Storybook
+- ☁️ &nbsp; AWS | S3 | EC2 | CloudFront | SQS | SNS
 - :closed_book: &nbsp; Clean Code | TDD | Dry | KISS
 
 <br/>
