@@ -5,16 +5,16 @@
 - 🤔 &nbsp; Exploring new web technologies and developing software solutions.
 - 🎓 &nbsp; Graduated Computer Systems Analyst at UniFavip Wyden.
 - 💼 &nbsp; Working as a **Software engineer** at [Sólides tecnologia](https://www.linkedin.com/company/solidestecnologia).
-- 🌱 &nbsp; Learning more about Next.JS, React Testing Library and Front End best practices development in general.
+- 🌱 &nbsp; Learning more about Software performance and Data structures.
 
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | TypeScript | ReactJS | Node.js
 - 🛢 &nbsp; PostgreSQL | MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown | Yarn | NPM | Webpack | Micro-frontends | CI/CD | Github Actions | Gitlab pipelines
-- 🖥 &nbsp; Jest | React Testing Library | Styled-components | Tailwindcss | Next.js | Gatsby.js | Storybook
+- 🖥 &nbsp; Jest | React Testing Library | Styled-components | Tailwindcss | Next.js | Gatsby.js | Remix | Storybook
 - ☁️ &nbsp; AWS | S3 | EC2 | CloudFront | SQS | SNS
-- :closed_book: &nbsp; Clean Code | TDD | Dry | KISS
+- :closed_book: &nbsp; Clean Code | TDD | Dry | KISS | SOLID
 
 <br/>
 
