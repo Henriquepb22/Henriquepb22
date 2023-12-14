@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new web technologies and developing software solutions.
 - 🎓 &nbsp; Graduated Computer Systems Analyst at UniFavip Wyden.
-- 💼 &nbsp; Working as a **Software engineer** at [Sólides tecnologia](https://www.linkedin.com/company/solidestecnologia).
+- 💼 &nbsp; Working as a **Software engineer** at [LILT](https://www.linkedin.com/company/lilthq/).
 - 🌱 &nbsp; Learning more about Software performance and Data structures.
 
 <h3>🛠 Tech Stack</h3>
