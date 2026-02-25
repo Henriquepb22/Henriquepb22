@@ -9,16 +9,15 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | TypeScript | ReactJS | Node.js
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | TypeScript | ReactJS | Node.js | Python | Java
 - 🛢 &nbsp; PostgreSQL | MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown | Yarn | NPM | Webpack | Micro-frontends | CI/CD | Github Actions | Gitlab pipelines
 - 🖥 &nbsp; Jest | React Testing Library | Styled-components | Tailwindcss | Next.js | Gatsby.js | Remix | Storybook
 - ☁️ &nbsp; AWS | S3 | EC2 | CloudFront | SQS | SNS
 - :closed_book: &nbsp; Clean Code | TDD | Dry | KISS | SOLID
+- 🤖 MCP | Google ADK | Agents
 
 <br/>
-
-[![Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriquepb22&show_icons=true)](https://github.com/henriquepb22)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
