@@ -12,8 +12,8 @@
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | TypeScript | ReactJS | Node.js | Python | Java
 - 🛢 &nbsp; PostgreSQL | MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown | Yarn | NPM | Webpack | Micro-frontends | CI/CD | Github Actions | Gitlab pipelines
-- 🖥 &nbsp; Jest | React Testing Library | Styled-components | Tailwindcss | Next.js | Gatsby.js | Remix | Storybook
-- ☁️ &nbsp; AWS | S3 | EC2 | CloudFront | SQS | SNS
+- 🖥 &nbsp; Vite | Vitest | Jest | React Testing Library | Styled-components | Tailwindcss | Next.js | Gatsby.js | Remix | Storybook
+- ☁️ &nbsp; AWS | GCP | S3 | EC2 | CloudFront | SQS | SNS
 - :closed_book: &nbsp; Clean Code | TDD | Dry | KISS | SOLID
 - 🤖 MCP | Google ADK | Agents
 
@@ -23,6 +23,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/henrique-pereira-a89b3212b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-henrique&#8209;pereira&#8209;a89b3212b-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/henrique.pbarros/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-henrique.pbarros-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/henriquepereiradev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-henrique.pbarros-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:henriquepbdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-henriquepbdev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
